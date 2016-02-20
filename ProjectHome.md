@@ -1,0 +1,3 @@
+TimeTrex is a complete Web-based payroll and time management suite that offers employee scheduling, attendance (time clock), job costing, invoicing/accounts receivable, and payroll in a tightly integrated package. With the ability to interface with hardware such as iButtons, barcode readers, and cell phones, employees are able to efficiently track their time at the office or on the road. It can automatically calculate complex over time and premium time business policies, and is immediately able to identify labor costs attributed to projects by employee, branch, department, task-type and quantities produced. It can process your payroll by calculating withholding taxes (US/Canada), generate detailed electronic pay stubs, and even print paychecks or direct deposit funds.
+
+
